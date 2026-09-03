@@ -2,4 +2,4 @@ venv/
 __pycache__/
 *.pyc
 .env
-.ipynb_checkpoints/
+.ipynb_checkpoints/git add .
